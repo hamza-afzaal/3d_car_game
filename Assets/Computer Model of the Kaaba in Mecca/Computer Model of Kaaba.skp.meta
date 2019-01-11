@@ -1,0 +1,1589 @@
+fileFormatVersion: 2
+guid: beb6782bdb277294582d0e52ccf005dd
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f0200009002000091020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 5801646e1ac4664ffa3c1d9cf21e0d9f
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 29.829626, y: 1.8504497, z: -16.695797}
+      lookAt: {x: -7.526763, y: 13.491435, z: 27.098188}
+      up: {x: 0.1286397, y: 0.98015755, z: -0.15080807}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 38.964783, y: 19.371525, z: 4.6261435}
+        lookAt: {x: 38.970604, y: -39.344788, z: 5.7750516}
+        up: {x: 0.0050660595, y: 0.019563608, z: 0.9997958}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+    - camera:
+        position: {x: 30.218632, y: 5.4662595, z: -16.794333}
+        lookAt: {x: -9.60366, y: 7.896931, z: 26.300938}
+        up: {x: 0.028089313, y: 0.9991431, z: -0.03039796}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+    - camera:
+        position: {x: 30.187618, y: 5.4733963, z: -16.823395}
+        lookAt: {x: -9.634675, y: 7.9040685, z: 26.271875}
+        up: {x: 0.028089313, y: 0.9991431, z: -0.03039796}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 3
+    - camera:
+        position: {x: -4.2601104, y: 3.5777268, z: -27.592712}
+        lookAt: {x: 15.0365095, y: 8.310101, z: 27.671837}
+        up: {x: -0.026563855, y: 0.99674803, z: -0.07607754}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 4
+    - camera:
+        position: {x: -19.352566, y: 18.618204, z: 24.097322}
+        lookAt: {x: 23.825413, y: -3.6510491, z: -8.897645}
+        up: {x: 0.30129638, y: 0.9253164, z: -0.23023923}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 5
+    - camera:
+        position: {x: -19.352566, y: 18.618204, z: 24.097322}
+        lookAt: {x: 23.825413, y: -3.6510491, z: -8.897645}
+        up: {x: 0.30129638, y: 0.9253164, z: -0.23023923}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 6
+    - camera:
+        position: {x: -0.024217306, y: 5.311044, z: 8.497172}
+        lookAt: {x: 47.030163, y: -9.666577, z: -23.290901}
+        up: {x: 0.21133105, y: 0.96693164, z: -0.14276688}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 7
+    - camera:
+        position: {x: 1.602229, y: 3.7475197, z: 9.980577}
+        lookAt: {x: 32.41883, y: 6.8078046, z: -39.918293}
+        up: {x: -0.027381247, y: 0.9986414, z: 0.044336278}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 8
+    - camera:
+        position: {x: 1.3487442, y: 12.240489, z: 6.401447}
+        lookAt: {x: 54.132607, y: 9.620427, z: -19.209576}
+        up: {x: 0.040138535, y: 0.9990043, z: -0.01947544}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 9
+    - camera:
+        position: {x: 15.863566, y: 12.390666, z: 8.598366}
+        lookAt: {x: -30.920813, y: 13.330798, z: -26.887735}
+        up: {x: 0.012754455, y: 0.9998719, z: 0.009674295}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 10
+    - camera:
+        position: {x: 33.43223, y: 7.1598854, z: 26.162449}
+        lookAt: {x: -12.275059, y: 5.0460634, z: -10.651962}
+        up: {x: -0.02803184, y: 0.99935204, z: -0.022577925}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 11
+    - camera:
+        position: {x: 29.829626, y: 1.8504497, z: -16.695797}
+        lookAt: {x: -7.526763, y: 13.491435, z: 27.098188}
+        up: {x: 0.1286397, y: 0.98015755, z: -0.15080807}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 12
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 3d man standing
+    100002: 3d man standing 1
+    100004: Base of Ring
+    100006: Base of Ring 1
+    100008: Base of Ring 10
+    100010: Base of Ring 11
+    100012: Base of Ring 12
+    100014: Base of Ring 13
+    100016: Base of Ring 14
+    100018: Base of Ring 15
+    100020: Base of Ring 16
+    100022: Base of Ring 17
+    100024: Base of Ring 18
+    100026: Base of Ring 19
+    100028: Base of Ring 2
+    100030: Base of Ring 20
+    100032: Base of Ring 21
+    100034: Base of Ring 22
+    100036: Base of Ring 23
+    100038: Base of Ring 24
+    100040: Base of Ring 25
+    100042: Base of Ring 26
+    100044: Base of Ring 27
+    100046: Base of Ring 28
+    100048: Base of Ring 29
+    100050: Base of Ring 3
+    100052: Base of Ring 30
+    100054: Base of Ring 31
+    100056: Base of Ring 32
+    100058: Base of Ring 33
+    100060: Base of Ring 34
+    100062: Base of Ring 35
+    100064: Base of Ring 36
+    100066: Base of Ring 37
+    100068: Base of Ring 38
+    100070: Base of Ring 39
+    100072: Base of Ring 4
+    100074: Base of Ring 40
+    100076: Base of Ring 41
+    100078: Base of Ring 42
+    100080: Base of Ring 43
+    100082: Base of Ring 44
+    100084: Base of Ring 45
+    100086: Base of Ring 46
+    100088: Base of Ring 47
+    100090: Base of Ring 48
+    100092: Base of Ring 49
+    100094: Base of Ring 5
+    100096: Base of Ring 50
+    100098: Base of Ring 51
+    100100: Base of Ring 52
+    100102: Base of Ring 53
+    100104: Base of Ring 54
+    100106: Base of Ring 55
+    100108: Base of Ring 56
+    100110: Base of Ring 57
+    100112: Base of Ring 58
+    100114: Base of Ring 6
+    100116: Base of Ring 7
+    100118: Base of Ring 8
+    100120: Base of Ring 9
+    100122: Black Rock
+    100124: Censer Type 1
+    100126: Censer Type 1 1
+    100128: Censer Type 1 10
+    100130: Censer Type 1 11
+    100132: Censer Type 1 12
+    100134: Censer Type 1 2
+    100136: Censer Type 1 3
+    100138: Censer Type 1 4
+    100140: Censer Type 1 5
+    100142: Censer Type 1 6
+    100144: Censer Type 1 7
+    100146: Censer Type 1 8
+    100148: Censer Type 1 9
+    100150: Censer Type 2
+    100152: Censer Type 2 1
+    100154: Censer Type 2 2
+    100156: Censer Type 2 3
+    100158: Censer Type 2 4
+    100160: Censer Type 2 5
+    100162: Censer Type 2 6
+    100164: Censer Type 2 7
+    100166: Censer Type 2 8
+    100168: Censer Type 2 9
+    100170: Censer Type 3
+    100172: Censer Type 3 1
+    100174: Censer Type 3 2
+    100176: Censer Type 3 3
+    100178: Censer Type 3 4
+    100180: Censer Type 3 5
+    100182: Censer Type 3 6
+    100184: Censer Type 3 7
+    100186: Censer Type 3 8
+    100188: Censer Type 3 9
+    100190: Censers and Incense Burners
+    100192: //RootNode
+    100194: Crescent Moon of Islam
+    100196: Door
+    100198: Door 1
+    100200: Door 2
+    100202: Flat Section of Lamp
+    100204: Flat Section of Lamp 1
+    100206: Flat Section of Lamp 2
+    100208: Flat Section of Lamp 3
+    100210: Flat Section of Lamp 4
+    100212: Flat Section of Lamp 5
+    100214: Flat Section of Lamp 6
+    100216: Flat Section of Lamp 7
+    100218: Flat Section of Lamp 8
+    100220: Full Lamp
+    100222: Full Lamp 1
+    100224: Full Lamp 2
+    100226: Golden Gutter
+    100228: Group 198
+    100230: Group 202
+    100232: Group 206
+    100234: Internal Column
+    100236: Internal Column 1
+    100238: Internal Column 2
+    100240: Internal Columns
+    100242: Kiswah Cloth
+    100244: Kiswah Rings
+    100246: Ring
+    100248: Ring 1
+    100250: Ring 10
+    100252: Ring 100
+    100254: Ring 101
+    100256: Ring 102
+    100258: Ring 103
+    100260: Ring 104
+    100262: Ring 105
+    100264: Ring 106
+    100266: Ring 107
+    100268: Ring 108
+    100270: Ring 109
+    100272: Ring 11
+    100274: Ring 110
+    100276: Ring 111
+    100278: Ring 112
+    100280: Ring 113
+    100282: Ring 114
+    100284: Ring 115
+    100286: Ring 116
+    100288: Ring 117
+    100290: Ring 12
+    100292: Ring 13
+    100294: Ring 14
+    100296: Ring 15
+    100298: Ring 16
+    100300: Ring 17
+    100302: Ring 18
+    100304: Ring 19
+    100306: Ring 2
+    100308: Ring 20
+    100310: Ring 21
+    100312: Ring 22
+    100314: Ring 23
+    100316: Ring 24
+    100318: Ring 25
+    100320: Ring 26
+    100322: Ring 27
+    100324: Ring 28
+    100326: Ring 29
+    100328: Ring 3
+    100330: Ring 30
+    100332: Ring 31
+    100334: Ring 32
+    100336: Ring 33
+    100338: Ring 34
+    100340: Ring 35
+    100342: Ring 36
+    100344: Ring 37
+    100346: Ring 38
+    100348: Ring 39
+    100350: Ring 4
+    100352: Ring 40
+    100354: Ring 41
+    100356: Ring 42
+    100358: Ring 43
+    100360: Ring 44
+    100362: Ring 45
+    100364: Ring 46
+    100366: Ring 47
+    100368: Ring 48
+    100370: Ring 49
+    100372: Ring 5
+    100374: Ring 50
+    100376: Ring 51
+    100378: Ring 52
+    100380: Ring 53
+    100382: Ring 54
+    100384: Ring 55
+    100386: Ring 56
+    100388: Ring 57
+    100390: Ring 58
+    100392: Ring 59
+    100394: Ring 6
+    100396: Ring 60
+    100398: Ring 61
+    100400: Ring 62
+    100402: Ring 63
+    100404: Ring 64
+    100406: Ring 65
+    100408: Ring 66
+    100410: Ring 67
+    100412: Ring 68
+    100414: Ring 69
+    100416: Ring 7
+    100418: Ring 70
+    100420: Ring 71
+    100422: Ring 72
+    100424: Ring 73
+    100426: Ring 74
+    100428: Ring 75
+    100430: Ring 76
+    100432: Ring 77
+    100434: Ring 78
+    100436: Ring 79
+    100438: Ring 8
+    100440: Ring 80
+    100442: Ring 81
+    100444: Ring 82
+    100446: Ring 83
+    100448: Ring 84
+    100450: Ring 85
+    100452: Ring 86
+    100454: Ring 87
+    100456: Ring 88
+    100458: Ring 89
+    100460: Ring 9
+    100462: Ring 90
+    100464: Ring 91
+    100466: Ring 92
+    100468: Ring 93
+    100470: Ring 94
+    100472: Ring 95
+    100474: Ring 96
+    100476: Ring 97
+    100478: Ring 98
+    100480: Ring 99
+    100482: Ritual Basin
+    100484: Ritual Table
+    100486: Roof
+    100488: Stairs
+    100490: Stairs 1
+    100492: Stairs 2
+    100494: Stairs 3
+    100496: Stairwell
+    100498: Station of Ibrahim
+    100500: Support Base
+    100502: Support Base 1
+    100504: Support Base 10
+    100506: Support Base 11
+    100508: Support Base 12
+    100510: Support Base 13
+    100512: Support Base 14
+    100514: Support Base 15
+    100516: Support Base 16
+    100518: Support Base 17
+    100520: Support Base 18
+    100522: Support Base 19
+    100524: Support Base 2
+    100526: Support Base 20
+    100528: Support Base 21
+    100530: Support Base 22
+    100532: Support Base 23
+    100534: Support Base 24
+    100536: Support Base 25
+    100538: Support Base 26
+    100540: Support Base 27
+    100542: Support Base 28
+    100544: Support Base 29
+    100546: Support Base 3
+    100548: Support Base 30
+    100550: Support Base 31
+    100552: Support Base 32
+    100554: Support Base 33
+    100556: Support Base 34
+    100558: Support Base 35
+    100560: Support Base 36
+    100562: Support Base 37
+    100564: Support Base 38
+    100566: Support Base 39
+    100568: Support Base 4
+    100570: Support Base 40
+    100572: Support Base 41
+    100574: Support Base 42
+    100576: Support Base 43
+    100578: Support Base 44
+    100580: Support Base 45
+    100582: Support Base 46
+    100584: Support Base 47
+    100586: Support Base 48
+    100588: Support Base 49
+    100590: Support Base 5
+    100592: Support Base 50
+    100594: Support Base 51
+    100596: Support Base 52
+    100598: Support Base 53
+    100600: Support Base 54
+    100602: Support Base 55
+    100604: Support Base 56
+    100606: Support Base 57
+    100608: Support Base 58
+    100610: Support Base 6
+    100612: Support Base 7
+    100614: Support Base 8
+    100616: Support Base 9
+    100618: Tavaf
+    100620: Wooden Roof Beam
+    100622: Wooden Roof Beam 1
+    100624: Wooden Roof Beam 10
+    100626: Wooden Roof Beam 11
+    100628: Wooden Roof Beam 12
+    100630: Wooden Roof Beam 13
+    100632: Wooden Roof Beam 14
+    100634: Wooden Roof Beam 15
+    100636: Wooden Roof Beam 16
+    100638: Wooden Roof Beam 17
+    100640: Wooden Roof Beam 18
+    100642: Wooden Roof Beam 19
+    100644: Wooden Roof Beam 2
+    100646: Wooden Roof Beam 20
+    100648: Wooden Roof Beam 21
+    100650: Wooden Roof Beam 22
+    100652: Wooden Roof Beam 23
+    100654: Wooden Roof Beam 24
+    100656: Wooden Roof Beam 25
+    100658: Wooden Roof Beam 26
+    100660: Wooden Roof Beam 27
+    100662: Wooden Roof Beam 28
+    100664: Wooden Roof Beam 29
+    100666: Wooden Roof Beam 3
+    100668: Wooden Roof Beam 30
+    100670: Wooden Roof Beam 31
+    100672: Wooden Roof Beam 32
+    100674: Wooden Roof Beam 33
+    100676: Wooden Roof Beam 34
+    100678: Wooden Roof Beam 35
+    100680: Wooden Roof Beam 36
+    100682: Wooden Roof Beam 37
+    100684: Wooden Roof Beam 38
+    100686: Wooden Roof Beam 39
+    100688: Wooden Roof Beam 4
+    100690: Wooden Roof Beam 40
+    100692: Wooden Roof Beam 41
+    100694: Wooden Roof Beam 42
+    100696: Wooden Roof Beam 43
+    100698: Wooden Roof Beam 44
+    100700: Wooden Roof Beam 45
+    100702: Wooden Roof Beam 46
+    100704: Wooden Roof Beam 47
+    100706: Wooden Roof Beam 48
+    100708: Wooden Roof Beam 49
+    100710: Wooden Roof Beam 5
+    100712: Wooden Roof Beam 6
+    100714: Wooden Roof Beam 7
+    100716: Wooden Roof Beam 8
+    100718: Wooden Roof Beam 9
+    400000: 3d man standing
+    400002: 3d man standing 1
+    400004: Base of Ring
+    400006: Base of Ring 1
+    400008: Base of Ring 10
+    400010: Base of Ring 11
+    400012: Base of Ring 12
+    400014: Base of Ring 13
+    400016: Base of Ring 14
+    400018: Base of Ring 15
+    400020: Base of Ring 16
+    400022: Base of Ring 17
+    400024: Base of Ring 18
+    400026: Base of Ring 19
+    400028: Base of Ring 2
+    400030: Base of Ring 20
+    400032: Base of Ring 21
+    400034: Base of Ring 22
+    400036: Base of Ring 23
+    400038: Base of Ring 24
+    400040: Base of Ring 25
+    400042: Base of Ring 26
+    400044: Base of Ring 27
+    400046: Base of Ring 28
+    400048: Base of Ring 29
+    400050: Base of Ring 3
+    400052: Base of Ring 30
+    400054: Base of Ring 31
+    400056: Base of Ring 32
+    400058: Base of Ring 33
+    400060: Base of Ring 34
+    400062: Base of Ring 35
+    400064: Base of Ring 36
+    400066: Base of Ring 37
+    400068: Base of Ring 38
+    400070: Base of Ring 39
+    400072: Base of Ring 4
+    400074: Base of Ring 40
+    400076: Base of Ring 41
+    400078: Base of Ring 42
+    400080: Base of Ring 43
+    400082: Base of Ring 44
+    400084: Base of Ring 45
+    400086: Base of Ring 46
+    400088: Base of Ring 47
+    400090: Base of Ring 48
+    400092: Base of Ring 49
+    400094: Base of Ring 5
+    400096: Base of Ring 50
+    400098: Base of Ring 51
+    400100: Base of Ring 52
+    400102: Base of Ring 53
+    400104: Base of Ring 54
+    400106: Base of Ring 55
+    400108: Base of Ring 56
+    400110: Base of Ring 57
+    400112: Base of Ring 58
+    400114: Base of Ring 6
+    400116: Base of Ring 7
+    400118: Base of Ring 8
+    400120: Base of Ring 9
+    400122: Black Rock
+    400124: Censer Type 1
+    400126: Censer Type 1 1
+    400128: Censer Type 1 10
+    400130: Censer Type 1 11
+    400132: Censer Type 1 12
+    400134: Censer Type 1 2
+    400136: Censer Type 1 3
+    400138: Censer Type 1 4
+    400140: Censer Type 1 5
+    400142: Censer Type 1 6
+    400144: Censer Type 1 7
+    400146: Censer Type 1 8
+    400148: Censer Type 1 9
+    400150: Censer Type 2
+    400152: Censer Type 2 1
+    400154: Censer Type 2 2
+    400156: Censer Type 2 3
+    400158: Censer Type 2 4
+    400160: Censer Type 2 5
+    400162: Censer Type 2 6
+    400164: Censer Type 2 7
+    400166: Censer Type 2 8
+    400168: Censer Type 2 9
+    400170: Censer Type 3
+    400172: Censer Type 3 1
+    400174: Censer Type 3 2
+    400176: Censer Type 3 3
+    400178: Censer Type 3 4
+    400180: Censer Type 3 5
+    400182: Censer Type 3 6
+    400184: Censer Type 3 7
+    400186: Censer Type 3 8
+    400188: Censer Type 3 9
+    400190: Censers and Incense Burners
+    400192: //RootNode
+    400194: Crescent Moon of Islam
+    400196: Door
+    400198: Door 1
+    400200: Door 2
+    400202: Flat Section of Lamp
+    400204: Flat Section of Lamp 1
+    400206: Flat Section of Lamp 2
+    400208: Flat Section of Lamp 3
+    400210: Flat Section of Lamp 4
+    400212: Flat Section of Lamp 5
+    400214: Flat Section of Lamp 6
+    400216: Flat Section of Lamp 7
+    400218: Flat Section of Lamp 8
+    400220: Full Lamp
+    400222: Full Lamp 1
+    400224: Full Lamp 2
+    400226: Golden Gutter
+    400228: Group 198
+    400230: Group 202
+    400232: Group 206
+    400234: Internal Column
+    400236: Internal Column 1
+    400238: Internal Column 2
+    400240: Internal Columns
+    400242: Kiswah Cloth
+    400244: Kiswah Rings
+    400246: Ring
+    400248: Ring 1
+    400250: Ring 10
+    400252: Ring 100
+    400254: Ring 101
+    400256: Ring 102
+    400258: Ring 103
+    400260: Ring 104
+    400262: Ring 105
+    400264: Ring 106
+    400266: Ring 107
+    400268: Ring 108
+    400270: Ring 109
+    400272: Ring 11
+    400274: Ring 110
+    400276: Ring 111
+    400278: Ring 112
+    400280: Ring 113
+    400282: Ring 114
+    400284: Ring 115
+    400286: Ring 116
+    400288: Ring 117
+    400290: Ring 12
+    400292: Ring 13
+    400294: Ring 14
+    400296: Ring 15
+    400298: Ring 16
+    400300: Ring 17
+    400302: Ring 18
+    400304: Ring 19
+    400306: Ring 2
+    400308: Ring 20
+    400310: Ring 21
+    400312: Ring 22
+    400314: Ring 23
+    400316: Ring 24
+    400318: Ring 25
+    400320: Ring 26
+    400322: Ring 27
+    400324: Ring 28
+    400326: Ring 29
+    400328: Ring 3
+    400330: Ring 30
+    400332: Ring 31
+    400334: Ring 32
+    400336: Ring 33
+    400338: Ring 34
+    400340: Ring 35
+    400342: Ring 36
+    400344: Ring 37
+    400346: Ring 38
+    400348: Ring 39
+    400350: Ring 4
+    400352: Ring 40
+    400354: Ring 41
+    400356: Ring 42
+    400358: Ring 43
+    400360: Ring 44
+    400362: Ring 45
+    400364: Ring 46
+    400366: Ring 47
+    400368: Ring 48
+    400370: Ring 49
+    400372: Ring 5
+    400374: Ring 50
+    400376: Ring 51
+    400378: Ring 52
+    400380: Ring 53
+    400382: Ring 54
+    400384: Ring 55
+    400386: Ring 56
+    400388: Ring 57
+    400390: Ring 58
+    400392: Ring 59
+    400394: Ring 6
+    400396: Ring 60
+    400398: Ring 61
+    400400: Ring 62
+    400402: Ring 63
+    400404: Ring 64
+    400406: Ring 65
+    400408: Ring 66
+    400410: Ring 67
+    400412: Ring 68
+    400414: Ring 69
+    400416: Ring 7
+    400418: Ring 70
+    400420: Ring 71
+    400422: Ring 72
+    400424: Ring 73
+    400426: Ring 74
+    400428: Ring 75
+    400430: Ring 76
+    400432: Ring 77
+    400434: Ring 78
+    400436: Ring 79
+    400438: Ring 8
+    400440: Ring 80
+    400442: Ring 81
+    400444: Ring 82
+    400446: Ring 83
+    400448: Ring 84
+    400450: Ring 85
+    400452: Ring 86
+    400454: Ring 87
+    400456: Ring 88
+    400458: Ring 89
+    400460: Ring 9
+    400462: Ring 90
+    400464: Ring 91
+    400466: Ring 92
+    400468: Ring 93
+    400470: Ring 94
+    400472: Ring 95
+    400474: Ring 96
+    400476: Ring 97
+    400478: Ring 98
+    400480: Ring 99
+    400482: Ritual Basin
+    400484: Ritual Table
+    400486: Roof
+    400488: Stairs
+    400490: Stairs 1
+    400492: Stairs 2
+    400494: Stairs 3
+    400496: Stairwell
+    400498: Station of Ibrahim
+    400500: Support Base
+    400502: Support Base 1
+    400504: Support Base 10
+    400506: Support Base 11
+    400508: Support Base 12
+    400510: Support Base 13
+    400512: Support Base 14
+    400514: Support Base 15
+    400516: Support Base 16
+    400518: Support Base 17
+    400520: Support Base 18
+    400522: Support Base 19
+    400524: Support Base 2
+    400526: Support Base 20
+    400528: Support Base 21
+    400530: Support Base 22
+    400532: Support Base 23
+    400534: Support Base 24
+    400536: Support Base 25
+    400538: Support Base 26
+    400540: Support Base 27
+    400542: Support Base 28
+    400544: Support Base 29
+    400546: Support Base 3
+    400548: Support Base 30
+    400550: Support Base 31
+    400552: Support Base 32
+    400554: Support Base 33
+    400556: Support Base 34
+    400558: Support Base 35
+    400560: Support Base 36
+    400562: Support Base 37
+    400564: Support Base 38
+    400566: Support Base 39
+    400568: Support Base 4
+    400570: Support Base 40
+    400572: Support Base 41
+    400574: Support Base 42
+    400576: Support Base 43
+    400578: Support Base 44
+    400580: Support Base 45
+    400582: Support Base 46
+    400584: Support Base 47
+    400586: Support Base 48
+    400588: Support Base 49
+    400590: Support Base 5
+    400592: Support Base 50
+    400594: Support Base 51
+    400596: Support Base 52
+    400598: Support Base 53
+    400600: Support Base 54
+    400602: Support Base 55
+    400604: Support Base 56
+    400606: Support Base 57
+    400608: Support Base 58
+    400610: Support Base 6
+    400612: Support Base 7
+    400614: Support Base 8
+    400616: Support Base 9
+    400618: Tavaf
+    400620: Wooden Roof Beam
+    400622: Wooden Roof Beam 1
+    400624: Wooden Roof Beam 10
+    400626: Wooden Roof Beam 11
+    400628: Wooden Roof Beam 12
+    400630: Wooden Roof Beam 13
+    400632: Wooden Roof Beam 14
+    400634: Wooden Roof Beam 15
+    400636: Wooden Roof Beam 16
+    400638: Wooden Roof Beam 17
+    400640: Wooden Roof Beam 18
+    400642: Wooden Roof Beam 19
+    400644: Wooden Roof Beam 2
+    400646: Wooden Roof Beam 20
+    400648: Wooden Roof Beam 21
+    400650: Wooden Roof Beam 22
+    400652: Wooden Roof Beam 23
+    400654: Wooden Roof Beam 24
+    400656: Wooden Roof Beam 25
+    400658: Wooden Roof Beam 26
+    400660: Wooden Roof Beam 27
+    400662: Wooden Roof Beam 28
+    400664: Wooden Roof Beam 29
+    400666: Wooden Roof Beam 3
+    400668: Wooden Roof Beam 30
+    400670: Wooden Roof Beam 31
+    400672: Wooden Roof Beam 32
+    400674: Wooden Roof Beam 33
+    400676: Wooden Roof Beam 34
+    400678: Wooden Roof Beam 35
+    400680: Wooden Roof Beam 36
+    400682: Wooden Roof Beam 37
+    400684: Wooden Roof Beam 38
+    400686: Wooden Roof Beam 39
+    400688: Wooden Roof Beam 4
+    400690: Wooden Roof Beam 40
+    400692: Wooden Roof Beam 41
+    400694: Wooden Roof Beam 42
+    400696: Wooden Roof Beam 43
+    400698: Wooden Roof Beam 44
+    400700: Wooden Roof Beam 45
+    400702: Wooden Roof Beam 46
+    400704: Wooden Roof Beam 47
+    400706: Wooden Roof Beam 48
+    400708: Wooden Roof Beam 49
+    400710: Wooden Roof Beam 5
+    400712: Wooden Roof Beam 6
+    400714: Wooden Roof Beam 7
+    400716: Wooden Roof Beam 8
+    400718: Wooden Roof Beam 9
+    2100000: _defaultMat
+    2100002: '[Metal_Aluminum_Anodized]'
+    2100004: Marble
+    2100006: Kaaba Granite Texture
+    2100008: 900px-Kaaba-plan.svg
+    2100010: '[Translucent_Glass_Gray]2'
+    2100012: Compass
+    2100014: _2
+    2100016: Granite - Interior
+    2100018: Fabric - Black Grisaille Pattern on Interior1
+    2100020: _5
+    2100022: Door to Kaaba1
+    2100024: Gold
+    2100026: Door to Stairwell
+    2100028: Inscription
+    2100030: Inscription on Interior
+    2100032: _3
+    2100034: Fabric Texture with Black
+    2100036: Kaaba Fabric Texture
+    2100038: Fabric Door Opening
+    2100040: Kaaba Gutter
+    2100042: Black Stone of Mecca
+    2100044: '[Metal_Aluminum_Anodized]1'
+    2100046: free_hires_wood_texture_5
+    2100048: _Beige_1
+    2100050: '[Metal_Aluminum_Anodized]3'
+    2100052: ivory-collection-rta-cabinets-7-z
+    2100054: The Station of Ibrahim - Grill Ornament1
+    2100056: Cresent Moon of Islam
+    2100058: _6
+    2100060: _24
+    2100062: _1
+    2100064: Kabba Lamp
+    2300000: 3d man standing
+    2300002: 3d man standing 1
+    2300004: Base of Ring
+    2300006: Base of Ring 1
+    2300008: Base of Ring 10
+    2300010: Base of Ring 11
+    2300012: Base of Ring 12
+    2300014: Base of Ring 13
+    2300016: Base of Ring 14
+    2300018: Base of Ring 15
+    2300020: Base of Ring 16
+    2300022: Base of Ring 17
+    2300024: Base of Ring 18
+    2300026: Base of Ring 19
+    2300028: Base of Ring 2
+    2300030: Base of Ring 20
+    2300032: Base of Ring 21
+    2300034: Base of Ring 22
+    2300036: Base of Ring 23
+    2300038: Base of Ring 24
+    2300040: Base of Ring 25
+    2300042: Base of Ring 26
+    2300044: Base of Ring 27
+    2300046: Base of Ring 28
+    2300048: Base of Ring 29
+    2300050: Base of Ring 3
+    2300052: Base of Ring 30
+    2300054: Base of Ring 31
+    2300056: Base of Ring 32
+    2300058: Base of Ring 33
+    2300060: Base of Ring 34
+    2300062: Base of Ring 35
+    2300064: Base of Ring 36
+    2300066: Base of Ring 37
+    2300068: Base of Ring 38
+    2300070: Base of Ring 39
+    2300072: Base of Ring 4
+    2300074: Base of Ring 40
+    2300076: Base of Ring 41
+    2300078: Base of Ring 42
+    2300080: Base of Ring 43
+    2300082: Base of Ring 44
+    2300084: Base of Ring 45
+    2300086: Base of Ring 46
+    2300088: Base of Ring 47
+    2300090: Base of Ring 48
+    2300092: Base of Ring 49
+    2300094: Base of Ring 5
+    2300096: Base of Ring 50
+    2300098: Base of Ring 51
+    2300100: Base of Ring 52
+    2300102: Base of Ring 53
+    2300104: Base of Ring 54
+    2300106: Base of Ring 55
+    2300108: Base of Ring 56
+    2300110: Base of Ring 57
+    2300112: Base of Ring 58
+    2300114: Base of Ring 6
+    2300116: Base of Ring 7
+    2300118: Base of Ring 8
+    2300120: Base of Ring 9
+    2300122: Black Rock
+    2300124: Censer Type 1
+    2300126: Censer Type 1 1
+    2300128: Censer Type 1 10
+    2300130: Censer Type 1 11
+    2300132: Censer Type 1 12
+    2300134: Censer Type 1 2
+    2300136: Censer Type 1 3
+    2300138: Censer Type 1 4
+    2300140: Censer Type 1 5
+    2300142: Censer Type 1 6
+    2300144: Censer Type 1 7
+    2300146: Censer Type 1 8
+    2300148: Censer Type 1 9
+    2300150: Censer Type 2
+    2300152: Censer Type 2 1
+    2300154: Censer Type 2 2
+    2300156: Censer Type 2 3
+    2300158: Censer Type 2 4
+    2300160: Censer Type 2 5
+    2300162: Censer Type 2 6
+    2300164: Censer Type 2 7
+    2300166: Censer Type 2 8
+    2300168: Censer Type 2 9
+    2300170: Censer Type 3
+    2300172: Censer Type 3 1
+    2300174: Censer Type 3 2
+    2300176: Censer Type 3 3
+    2300178: Censer Type 3 4
+    2300180: Censer Type 3 5
+    2300182: Censer Type 3 6
+    2300184: Censer Type 3 7
+    2300186: Censer Type 3 8
+    2300188: Censer Type 3 9
+    2300190: Censers and Incense Burners
+    2300192: //RootNode
+    2300194: Crescent Moon of Islam
+    2300196: Door
+    2300198: Door 1
+    2300200: Door 2
+    2300202: Flat Section of Lamp
+    2300204: Flat Section of Lamp 1
+    2300206: Flat Section of Lamp 2
+    2300208: Flat Section of Lamp 3
+    2300210: Flat Section of Lamp 4
+    2300212: Flat Section of Lamp 5
+    2300214: Flat Section of Lamp 6
+    2300216: Flat Section of Lamp 7
+    2300218: Flat Section of Lamp 8
+    2300220: Full Lamp
+    2300222: Full Lamp 1
+    2300224: Full Lamp 2
+    2300226: Golden Gutter
+    2300228: Group 198
+    2300230: Group 202
+    2300232: Group 206
+    2300234: Internal Column
+    2300236: Internal Column 1
+    2300238: Internal Column 2
+    2300240: Kiswah Cloth
+    2300242: Ring 100
+    2300244: Ring 101
+    2300246: Ring 102
+    2300248: Ring 103
+    2300250: Ring 104
+    2300252: Ring 105
+    2300254: Ring 106
+    2300256: Ring 107
+    2300258: Ring 108
+    2300260: Ring 109
+    2300262: Ring 110
+    2300264: Ring 111
+    2300266: Ring 112
+    2300268: Ring 113
+    2300270: Ring 114
+    2300272: Ring 115
+    2300274: Ring 116
+    2300276: Ring 117
+    2300278: Ring 59
+    2300280: Ring 60
+    2300282: Ring 61
+    2300284: Ring 62
+    2300286: Ring 63
+    2300288: Ring 64
+    2300290: Ring 65
+    2300292: Ring 66
+    2300294: Ring 67
+    2300296: Ring 68
+    2300298: Ring 69
+    2300300: Ring 70
+    2300302: Ring 71
+    2300304: Ring 72
+    2300306: Ring 73
+    2300308: Ring 74
+    2300310: Ring 75
+    2300312: Ring 76
+    2300314: Ring 77
+    2300316: Ring 78
+    2300318: Ring 79
+    2300320: Ring 80
+    2300322: Ring 81
+    2300324: Ring 82
+    2300326: Ring 83
+    2300328: Ring 84
+    2300330: Ring 85
+    2300332: Ring 86
+    2300334: Ring 87
+    2300336: Ring 88
+    2300338: Ring 89
+    2300340: Ring 90
+    2300342: Ring 91
+    2300344: Ring 92
+    2300346: Ring 93
+    2300348: Ring 94
+    2300350: Ring 95
+    2300352: Ring 96
+    2300354: Ring 97
+    2300356: Ring 98
+    2300358: Ring 99
+    2300360: Ritual Basin
+    2300362: Ritual Table
+    2300364: Roof
+    2300366: Stairs
+    2300368: Stairs 1
+    2300370: Stairs 2
+    2300372: Stairs 3
+    2300374: Station of Ibrahim
+    2300376: Support Base
+    2300378: Support Base 1
+    2300380: Support Base 10
+    2300382: Support Base 11
+    2300384: Support Base 12
+    2300386: Support Base 13
+    2300388: Support Base 14
+    2300390: Support Base 15
+    2300392: Support Base 16
+    2300394: Support Base 17
+    2300396: Support Base 18
+    2300398: Support Base 19
+    2300400: Support Base 2
+    2300402: Support Base 20
+    2300404: Support Base 21
+    2300406: Support Base 22
+    2300408: Support Base 23
+    2300410: Support Base 24
+    2300412: Support Base 25
+    2300414: Support Base 26
+    2300416: Support Base 27
+    2300418: Support Base 28
+    2300420: Support Base 29
+    2300422: Support Base 3
+    2300424: Support Base 30
+    2300426: Support Base 31
+    2300428: Support Base 32
+    2300430: Support Base 33
+    2300432: Support Base 34
+    2300434: Support Base 35
+    2300436: Support Base 36
+    2300438: Support Base 37
+    2300440: Support Base 38
+    2300442: Support Base 39
+    2300444: Support Base 4
+    2300446: Support Base 40
+    2300448: Support Base 41
+    2300450: Support Base 42
+    2300452: Support Base 43
+    2300454: Support Base 44
+    2300456: Support Base 45
+    2300458: Support Base 46
+    2300460: Support Base 47
+    2300462: Support Base 48
+    2300464: Support Base 49
+    2300466: Support Base 5
+    2300468: Support Base 50
+    2300470: Support Base 51
+    2300472: Support Base 52
+    2300474: Support Base 53
+    2300476: Support Base 54
+    2300478: Support Base 55
+    2300480: Support Base 56
+    2300482: Support Base 57
+    2300484: Support Base 58
+    2300486: Support Base 6
+    2300488: Support Base 7
+    2300490: Support Base 8
+    2300492: Support Base 9
+    2300494: Tavaf
+    2300496: Wooden Roof Beam
+    2300498: Wooden Roof Beam 1
+    2300500: Wooden Roof Beam 10
+    2300502: Wooden Roof Beam 11
+    2300504: Wooden Roof Beam 12
+    2300506: Wooden Roof Beam 13
+    2300508: Wooden Roof Beam 14
+    2300510: Wooden Roof Beam 15
+    2300512: Wooden Roof Beam 16
+    2300514: Wooden Roof Beam 17
+    2300516: Wooden Roof Beam 18
+    2300518: Wooden Roof Beam 19
+    2300520: Wooden Roof Beam 2
+    2300522: Wooden Roof Beam 20
+    2300524: Wooden Roof Beam 21
+    2300526: Wooden Roof Beam 22
+    2300528: Wooden Roof Beam 23
+    2300530: Wooden Roof Beam 24
+    2300532: Wooden Roof Beam 25
+    2300534: Wooden Roof Beam 26
+    2300536: Wooden Roof Beam 27
+    2300538: Wooden Roof Beam 28
+    2300540: Wooden Roof Beam 29
+    2300542: Wooden Roof Beam 3
+    2300544: Wooden Roof Beam 30
+    2300546: Wooden Roof Beam 31
+    2300548: Wooden Roof Beam 32
+    2300550: Wooden Roof Beam 33
+    2300552: Wooden Roof Beam 34
+    2300554: Wooden Roof Beam 35
+    2300556: Wooden Roof Beam 36
+    2300558: Wooden Roof Beam 37
+    2300560: Wooden Roof Beam 38
+    2300562: Wooden Roof Beam 39
+    2300564: Wooden Roof Beam 4
+    2300566: Wooden Roof Beam 40
+    2300568: Wooden Roof Beam 41
+    2300570: Wooden Roof Beam 42
+    2300572: Wooden Roof Beam 43
+    2300574: Wooden Roof Beam 44
+    2300576: Wooden Roof Beam 45
+    2300578: Wooden Roof Beam 46
+    2300580: Wooden Roof Beam 47
+    2300582: Wooden Roof Beam 48
+    2300584: Wooden Roof Beam 49
+    2300586: Wooden Roof Beam 5
+    2300588: Wooden Roof Beam 6
+    2300590: Wooden Roof Beam 7
+    2300592: Wooden Roof Beam 8
+    2300594: Wooden Roof Beam 9
+    3300000: 3d man standing
+    3300002: 3d man standing 1
+    3300004: Base of Ring
+    3300006: Base of Ring 1
+    3300008: Base of Ring 10
+    3300010: Base of Ring 11
+    3300012: Base of Ring 12
+    3300014: Base of Ring 13
+    3300016: Base of Ring 14
+    3300018: Base of Ring 15
+    3300020: Base of Ring 16
+    3300022: Base of Ring 17
+    3300024: Base of Ring 18
+    3300026: Base of Ring 19
+    3300028: Base of Ring 2
+    3300030: Base of Ring 20
+    3300032: Base of Ring 21
+    3300034: Base of Ring 22
+    3300036: Base of Ring 23
+    3300038: Base of Ring 24
+    3300040: Base of Ring 25
+    3300042: Base of Ring 26
+    3300044: Base of Ring 27
+    3300046: Base of Ring 28
+    3300048: Base of Ring 29
+    3300050: Base of Ring 3
+    3300052: Base of Ring 30
+    3300054: Base of Ring 31
+    3300056: Base of Ring 32
+    3300058: Base of Ring 33
+    3300060: Base of Ring 34
+    3300062: Base of Ring 35
+    3300064: Base of Ring 36
+    3300066: Base of Ring 37
+    3300068: Base of Ring 38
+    3300070: Base of Ring 39
+    3300072: Base of Ring 4
+    3300074: Base of Ring 40
+    3300076: Base of Ring 41
+    3300078: Base of Ring 42
+    3300080: Base of Ring 43
+    3300082: Base of Ring 44
+    3300084: Base of Ring 45
+    3300086: Base of Ring 46
+    3300088: Base of Ring 47
+    3300090: Base of Ring 48
+    3300092: Base of Ring 49
+    3300094: Base of Ring 5
+    3300096: Base of Ring 50
+    3300098: Base of Ring 51
+    3300100: Base of Ring 52
+    3300102: Base of Ring 53
+    3300104: Base of Ring 54
+    3300106: Base of Ring 55
+    3300108: Base of Ring 56
+    3300110: Base of Ring 57
+    3300112: Base of Ring 58
+    3300114: Base of Ring 6
+    3300116: Base of Ring 7
+    3300118: Base of Ring 8
+    3300120: Base of Ring 9
+    3300122: Black Rock
+    3300124: Censer Type 1
+    3300126: Censer Type 1 1
+    3300128: Censer Type 1 10
+    3300130: Censer Type 1 11
+    3300132: Censer Type 1 12
+    3300134: Censer Type 1 2
+    3300136: Censer Type 1 3
+    3300138: Censer Type 1 4
+    3300140: Censer Type 1 5
+    3300142: Censer Type 1 6
+    3300144: Censer Type 1 7
+    3300146: Censer Type 1 8
+    3300148: Censer Type 1 9
+    3300150: Censer Type 2
+    3300152: Censer Type 2 1
+    3300154: Censer Type 2 2
+    3300156: Censer Type 2 3
+    3300158: Censer Type 2 4
+    3300160: Censer Type 2 5
+    3300162: Censer Type 2 6
+    3300164: Censer Type 2 7
+    3300166: Censer Type 2 8
+    3300168: Censer Type 2 9
+    3300170: Censer Type 3
+    3300172: Censer Type 3 1
+    3300174: Censer Type 3 2
+    3300176: Censer Type 3 3
+    3300178: Censer Type 3 4
+    3300180: Censer Type 3 5
+    3300182: Censer Type 3 6
+    3300184: Censer Type 3 7
+    3300186: Censer Type 3 8
+    3300188: Censer Type 3 9
+    3300190: Censers and Incense Burners
+    3300192: //RootNode
+    3300194: Crescent Moon of Islam
+    3300196: Door
+    3300198: Door 1
+    3300200: Door 2
+    3300202: Flat Section of Lamp
+    3300204: Flat Section of Lamp 1
+    3300206: Flat Section of Lamp 2
+    3300208: Flat Section of Lamp 3
+    3300210: Flat Section of Lamp 4
+    3300212: Flat Section of Lamp 5
+    3300214: Flat Section of Lamp 6
+    3300216: Flat Section of Lamp 7
+    3300218: Flat Section of Lamp 8
+    3300220: Full Lamp
+    3300222: Full Lamp 1
+    3300224: Full Lamp 2
+    3300226: Golden Gutter
+    3300228: Group 198
+    3300230: Group 202
+    3300232: Group 206
+    3300234: Internal Column
+    3300236: Internal Column 1
+    3300238: Internal Column 2
+    3300240: Kiswah Cloth
+    3300242: Ring 100
+    3300244: Ring 101
+    3300246: Ring 102
+    3300248: Ring 103
+    3300250: Ring 104
+    3300252: Ring 105
+    3300254: Ring 106
+    3300256: Ring 107
+    3300258: Ring 108
+    3300260: Ring 109
+    3300262: Ring 110
+    3300264: Ring 111
+    3300266: Ring 112
+    3300268: Ring 113
+    3300270: Ring 114
+    3300272: Ring 115
+    3300274: Ring 116
+    3300276: Ring 117
+    3300278: Ring 59
+    3300280: Ring 60
+    3300282: Ring 61
+    3300284: Ring 62
+    3300286: Ring 63
+    3300288: Ring 64
+    3300290: Ring 65
+    3300292: Ring 66
+    3300294: Ring 67
+    3300296: Ring 68
+    3300298: Ring 69
+    3300300: Ring 70
+    3300302: Ring 71
+    3300304: Ring 72
+    3300306: Ring 73
+    3300308: Ring 74
+    3300310: Ring 75
+    3300312: Ring 76
+    3300314: Ring 77
+    3300316: Ring 78
+    3300318: Ring 79
+    3300320: Ring 80
+    3300322: Ring 81
+    3300324: Ring 82
+    3300326: Ring 83
+    3300328: Ring 84
+    3300330: Ring 85
+    3300332: Ring 86
+    3300334: Ring 87
+    3300336: Ring 88
+    3300338: Ring 89
+    3300340: Ring 90
+    3300342: Ring 91
+    3300344: Ring 92
+    3300346: Ring 93
+    3300348: Ring 94
+    3300350: Ring 95
+    3300352: Ring 96
+    3300354: Ring 97
+    3300356: Ring 98
+    3300358: Ring 99
+    3300360: Ritual Basin
+    3300362: Ritual Table
+    3300364: Roof
+    3300366: Stairs
+    3300368: Stairs 1
+    3300370: Stairs 2
+    3300372: Stairs 3
+    3300374: Station of Ibrahim
+    3300376: Support Base
+    3300378: Support Base 1
+    3300380: Support Base 10
+    3300382: Support Base 11
+    3300384: Support Base 12
+    3300386: Support Base 13
+    3300388: Support Base 14
+    3300390: Support Base 15
+    3300392: Support Base 16
+    3300394: Support Base 17
+    3300396: Support Base 18
+    3300398: Support Base 19
+    3300400: Support Base 2
+    3300402: Support Base 20
+    3300404: Support Base 21
+    3300406: Support Base 22
+    3300408: Support Base 23
+    3300410: Support Base 24
+    3300412: Support Base 25
+    3300414: Support Base 26
+    3300416: Support Base 27
+    3300418: Support Base 28
+    3300420: Support Base 29
+    3300422: Support Base 3
+    3300424: Support Base 30
+    3300426: Support Base 31
+    3300428: Support Base 32
+    3300430: Support Base 33
+    3300432: Support Base 34
+    3300434: Support Base 35
+    3300436: Support Base 36
+    3300438: Support Base 37
+    3300440: Support Base 38
+    3300442: Support Base 39
+    3300444: Support Base 4
+    3300446: Support Base 40
+    3300448: Support Base 41
+    3300450: Support Base 42
+    3300452: Support Base 43
+    3300454: Support Base 44
+    3300456: Support Base 45
+    3300458: Support Base 46
+    3300460: Support Base 47
+    3300462: Support Base 48
+    3300464: Support Base 49
+    3300466: Support Base 5
+    3300468: Support Base 50
+    3300470: Support Base 51
+    3300472: Support Base 52
+    3300474: Support Base 53
+    3300476: Support Base 54
+    3300478: Support Base 55
+    3300480: Support Base 56
+    3300482: Support Base 57
+    3300484: Support Base 58
+    3300486: Support Base 6
+    3300488: Support Base 7
+    3300490: Support Base 8
+    3300492: Support Base 9
+    3300494: Tavaf
+    3300496: Wooden Roof Beam
+    3300498: Wooden Roof Beam 1
+    3300500: Wooden Roof Beam 10
+    3300502: Wooden Roof Beam 11
+    3300504: Wooden Roof Beam 12
+    3300506: Wooden Roof Beam 13
+    3300508: Wooden Roof Beam 14
+    3300510: Wooden Roof Beam 15
+    3300512: Wooden Roof Beam 16
+    3300514: Wooden Roof Beam 17
+    3300516: Wooden Roof Beam 18
+    3300518: Wooden Roof Beam 19
+    3300520: Wooden Roof Beam 2
+    3300522: Wooden Roof Beam 20
+    3300524: Wooden Roof Beam 21
+    3300526: Wooden Roof Beam 22
+    3300528: Wooden Roof Beam 23
+    3300530: Wooden Roof Beam 24
+    3300532: Wooden Roof Beam 25
+    3300534: Wooden Roof Beam 26
+    3300536: Wooden Roof Beam 27
+    3300538: Wooden Roof Beam 28
+    3300540: Wooden Roof Beam 29
+    3300542: Wooden Roof Beam 3
+    3300544: Wooden Roof Beam 30
+    3300546: Wooden Roof Beam 31
+    3300548: Wooden Roof Beam 32
+    3300550: Wooden Roof Beam 33
+    3300552: Wooden Roof Beam 34
+    3300554: Wooden Roof Beam 35
+    3300556: Wooden Roof Beam 36
+    3300558: Wooden Roof Beam 37
+    3300560: Wooden Roof Beam 38
+    3300562: Wooden Roof Beam 39
+    3300564: Wooden Roof Beam 4
+    3300566: Wooden Roof Beam 40
+    3300568: Wooden Roof Beam 41
+    3300570: Wooden Roof Beam 42
+    3300572: Wooden Roof Beam 43
+    3300574: Wooden Roof Beam 44
+    3300576: Wooden Roof Beam 45
+    3300578: Wooden Roof Beam 46
+    3300580: Wooden Roof Beam 47
+    3300582: Wooden Roof Beam 48
+    3300584: Wooden Roof Beam 49
+    3300586: Wooden Roof Beam 5
+    3300588: Wooden Roof Beam 6
+    3300590: Wooden Roof Beam 7
+    3300592: Wooden Roof Beam 8
+    3300594: Wooden Roof Beam 9
+    4300000: Mesh Computer Model of Kaaba
+    4300002: Mesh Tavaf
+    4300004: Mesh Kiswah Cloth
+    4300006: Mesh Door
+    4300008: Mesh Door
+    4300010: Mesh Stairs
+    4300012: Mesh Golden Gutter
+    4300014: Mesh Black Rock
+    4300016: Mesh Roof
+    4300018: Mesh Wooden Roof Beam
+    4300020: Mesh Censers and Incense Burners
+    4300022: Mesh Censer Type 1
+    4300024: Mesh Censer Type 2
+    4300026: Mesh Censer Type 3
+    4300028: Mesh Internal Column
+    4300030: Mesh Group 198
+    4300032: Mesh Ritual Table
+    4300034: Mesh Ritual Basin
+    4300036: Mesh Ring
+    4300038: Mesh Base of Ring
+    4300040: Mesh Support Base
+    4300042: Mesh Station of Ibrahim
+    4300044: Mesh Crescent Moon of Islam
+    4300046: Mesh 3d man standing
+    4300048: Mesh Full Lamp
+    4300050: Mesh Flat Section of Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
